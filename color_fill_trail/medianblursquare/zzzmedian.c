@@ -164,7 +164,7 @@ gegl_op_class_init (GeglOpClass *klass)
   gegl_operation_class_set_keys (operation_class,
     "name",        "gegl:zzzmedian",
     "title",       _("zzzmedian"),
-    "categories",  "generic",
+    "categories",  "hidden",
     "reference-hash", "29b1522fa0cf4egh8a7ba97b41d8d4e",
     "description", _("Filter only exist to power GEGL color trail"),
     NULL);

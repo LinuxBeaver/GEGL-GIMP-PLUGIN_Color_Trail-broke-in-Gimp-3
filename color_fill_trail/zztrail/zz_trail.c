@@ -182,7 +182,7 @@ gegl_op_class_init (GeglOpClass *klass)
   gegl_operation_class_set_keys (operation_class,
     "name",        "gegl:zzfill",
     "title",       _("zzfill"),
-    "categories",  "light",
+    "categories",  "hidden",
     "reference-hash", "1784365a0ey010a189339f31866b1a",
     "description",
     _("Filter only exist to power GEGL Color trail"),
