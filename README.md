@@ -7,4 +7,4 @@ PLEASE CHANGE THE CLIPPING MODE FROM ADJUST TO CLIP FOR THIS FILTER TO WORK PROP
 
 
 
-![image preview](colortrail2)
+![image preview](colortrail2.png)
