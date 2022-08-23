@@ -72,7 +72,7 @@ property_double (gradius, _("Grow radius"), 0.0)
 property_color  (color, _("Color"), "#fd0002")
 
 
-property_color  (color2, _("Color2"), "#f384d1")
+property_color  (color2, _("Color2"), "#fe7e00")
 
 property_color  (color3, _("Color3"), "#ffff01")
 
