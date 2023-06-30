@@ -59,5 +59,16 @@ meson setup --buildtype=release build
 ninja -C build
 ```
 
+## More previews of this based Gimp Plugin
+
+![image](https://github.com/LinuxBeaver/GEGL-Color-Fill-Trail/assets/78667207/74d60e98-19c1-419e-a81d-e269ed314842)
+
+![image](https://github.com/LinuxBeaver/GEGL-Color-Fill-Trail/assets/78667207/334398ff-65c0-4ad5-9156-a872295365e4)
+
+![image](https://github.com/LinuxBeaver/GEGL-Color-Fill-Trail/assets/78667207/0b3dcf59-79d3-4826-bab5-f6972547f5fd)
+
+![image](https://github.com/LinuxBeaver/GEGL-Color-Fill-Trail/assets/78667207/5672f974-a147-4781-a307-2434ec5857dd)
+
+
 
 
