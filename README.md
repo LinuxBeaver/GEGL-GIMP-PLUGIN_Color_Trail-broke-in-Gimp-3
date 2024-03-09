@@ -1,3 +1,5 @@
+For an unknown reason this plugin crashes in Gimp 2.99x and likely will still stay broke in Gimp 3. I don't know how to solve this. But it works great in 2.10
+
 GEGL Trail and Multistroke
 =========
 
